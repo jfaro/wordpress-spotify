@@ -1,6 +1,6 @@
 <?php get_header(); ?>
 
-<!-- Page content -->
+<!-- Page content wrapper -->
 <div id="page-content">
 
   <!-- Left panel -->
@@ -22,7 +22,7 @@
     </div>
   </div>
 
-  <!-- Content -->
+  <!-- Main content -->
   <div id="page-center">
     Center
   </div>
