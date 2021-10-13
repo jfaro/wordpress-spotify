@@ -1,4 +1,6 @@
-# Wordpress Boilerplate
+# Wordpress Spotify Theme
+
+## Created as a guide for VOID Tech Consulting dev leads (FA21/WN22)
 
 ## Important Files must follow exact name
 
@@ -15,4 +17,3 @@
 ### Must-read documentation
 
 1. https://codex.wordpress.org/Conditional_Tags
-2. 
