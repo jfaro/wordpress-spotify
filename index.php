@@ -7,7 +7,7 @@
 
   <!-- Page content -->
   <div id="page-center">
-    index.php
+    HOME
   </div>
 
 </div>

@@ -7,7 +7,7 @@
 
     <!-- Page content -->
     <div id="page-center">
-        page-home.php
+        SEARCH
     </div>
 
 </div>
